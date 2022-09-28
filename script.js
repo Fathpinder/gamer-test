@@ -9,7 +9,7 @@ fetch(
 		method: 'GET',
 		headers: {
 			'TRN-Api-Key': '94d797ec-57ec-4610-88ca-137b97537b2e',
-			'Access-Control-Allow-Origin': 'https://tracker.gg',
+			// 'Access-Control-Allow-Origin': '*',
 		},
 	}
 );
